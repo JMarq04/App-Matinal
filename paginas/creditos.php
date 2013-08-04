@@ -84,7 +84,7 @@
 <body>
     <nav id="menu">
        <ul>
-          <li><a href="../index.php"><img class="icon-menu" src="../includes/iconos/hoy.png" width="20px" height="20px">Hoy</a></li>
+          <li><a href="../index.html"><img class="icon-menu" src="../includes/iconos/hoy.png" width="20px" height="20px">Hoy</a></li>
           <li><a href="buscar.php"><img class="icon-menu" src="../includes/iconos/search.png" width="20px" height="20px">Buscar</a></li>
           <li class="Selected"><a href="#"><img class="icon-menu" src="../includes/iconos/idea.png" width="20px" height="18px">Créditos</a></li>
        </ul>

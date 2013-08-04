@@ -37,7 +37,7 @@
 <body>
     <nav id="menu_leer">
        <ul>
-          <li><a href="../index.php">Hoy</a></li>
+          <li><a href="../index.html">Hoy</a></li>
           <li class="Selected"><a href="buscar.php">Buscar</a></li>          
           <!-- <li><a href="https://www.facebook.com/matutinadejovenesadventistas" target="_blank">Facebook</a></li> -->
           <li><a href="creditos.php">Créditos</a></li>
